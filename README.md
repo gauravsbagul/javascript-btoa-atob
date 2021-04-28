@@ -1,5 +1,5 @@
 # javascript-btoa-atob
-
+```
 //btoa and atob inbuilt functions for react native
 const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
 const Base64 = {
@@ -46,3 +46,4 @@ const Base64 = {
         return output;
     },
 };
+```
